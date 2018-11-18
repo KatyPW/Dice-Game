@@ -1,7 +1,6 @@
-//CST8110_324 with Jason Mombourquette
 //Assignment 3 
 //Class 1 of 3 - Main class - calls method in Game class to run the game
-//Katy Pirani-Watson - 040940659
+//Katy Pirani-Watson
 
 public class Assign3 {     //Main class
 
