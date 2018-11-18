@@ -1,6 +1,5 @@
 //Assignment 3 
 //Class 1 of 3 - Main class - calls method in Game class to run the game
-//Katy Pirani-Watson
 
 public class Assign3 {     //Main class
 
