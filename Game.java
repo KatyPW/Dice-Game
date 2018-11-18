@@ -1,7 +1,5 @@
-//CST8110_324 with Jason Mombourquette
 //Assignment 3 
 //class 2 of 3 - class containing logic to play the game
-//Katy Pirani-Watson - 040940659
 
 import java.util.*;
 
