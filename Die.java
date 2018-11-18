@@ -1,7 +1,5 @@
-//CST8110_324 with Jason Mombourquette
 //Assignment 3 
-//class 3 of 3 - class to simulate one die
-//Katy Pirani-Watson - 040940659
+//class 3 of 3 - class to simulate one dice
 
 import java.util.*;
 
